@@ -1,0 +1,10 @@
+{
+    "questions":[
+        {
+            "id": 1,
+            "plate": "Qual é a capital do Brasil?",
+            "options": ["Rio de Janeiro", "São Paulo", "Brasília", "Salvador"],
+            "answer": "Brasília"
+        }
+    ]
+}
